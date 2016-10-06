@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springwebflowtest.iml" filepath="$PROJECT_DIR$/.idea/modules/springwebflowtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springwebflowtest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/springwebflowtest_main.iml" group="springwebflowtest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springwebflowtest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/springwebflowtest_test.iml" group="springwebflowtest" />
+    </modules>
+  </component>
+</project>
